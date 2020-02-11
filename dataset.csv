@@ -1,0 +1,24 @@
+os,arch,platform
+Microsoft Windows Server 2016 Standard,64-bit,windows
+Linux version 2.6.18-348.el5 (mockbuild@x86-002.build.bos.redhat.com) (gcc version 4.1.2 20080704 (Red Hat 4.1.2-54)) #1 SMP Wed Nov 28 21:22:00 EST 2012,x86_64,linux
+Linux version 2.6.32-504.el6.i686 (mockbuild@x86-023.build.eng.bos.redhat.com) (gcc version 4.4.7 20120313 (Red Hat 4.4.7-11) (GCC) ) #1 SMP Tue Sep 16 01:56:19 EDT 2014,i686,linux
+Microsoft Windows Server 2012 R2 Standard,64-bit,windows
+Microsoft Windows Server 2008 R2 Standard,64-bit,windows
+Linux version 3.10.0-957.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-36) (GCC) ) #1 SMP Thu Nov 8 23:39:32 UTC 2018,x86_64,linux
+Linux version 3.10.0-957.21.3.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-36) (GCC) ) #1 SMP Tue Jun 18 16:35:19 UTC 2019,x86_64,linux
+"Microsoft(R) Windows(R) Server 2003, Standard Edition",undefined,windows
+Linux version 3.10.0-514.el7.x86_64 (builder@kbuilder.dev.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-11) (GCC) ) #1 SMP Tue Nov 22 16:42:41 UTC 2016,x86_64,linux
+Linux version 3.10.0-957.12.1.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-36) (GCC) ) #1 SMP Mon Apr 29 14:59:59 UTC 2019,x86_64,linux
+Linux version 3.10.0-957.27.2.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-36) (GCC) ) #1 SMP Mon Jul 29 17:46:05 UTC 2019,x86_64,linux
+Microsoft Windows 7 Professional K,32-bit,windows
+Microsoft Windows 10 Pro,64-bit,windows
+Microsoft Windows Server 2008 R2 Enterprise,64-bit,windows
+Microsoft® Windows Server® 2008 Standard,64-bit,windows
+Linux version 2.6.9-11.ELsmp (buildcentos@build1.hughesjr.centos.org) (gcc version 3.4.3 20050227 (Red Hat 3.4.3-22)) #1 SMP Wed Jun 8 17:54:20 CDT 2005,i686,linux
+Linux version 3.10.0-693.el7.x86_64 (mockbuild@x86-038.build.eng.bos.redhat.com) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) ) #1 SMP Thu Jul 6 19:56:57 EDT 2017,x86_64,linux
+Microsoft® Windows Server® 2008 Standard,32-bit,windows
+Linux version 2.6.18-194.el5 (mockbuild@builder10.centos.org) (gcc version 4.1.2 20080704 (Red Hat 4.1.2-48)) #1 SMP Fri Apr 2 14:58:14 EDT 2010,x86_64,linux
+Linux version 3.10.0-862.el7.x86_64 (builder@kbuilder.dev.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) ) #1 SMP Fri Apr 20 16:44:24 UTC 2018,x86_64,linux
+Linux version 2.6.32-71.el6.x86_64 (mockbuild@c6b6.centos.org) (gcc version 4.4.4 20100726 (Red Hat 4.4.4-13) (GCC) ) #1 SMP Fri May 20 03:51:51 BST 2011,x86_64,linux
+"Microsoft(R) Windows(R) Server 2003, Enterprise Edition",undefined,windows
+Linux version 3.10.0-862.14.4.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) ) #1 SMP Wed Sep 26 15:12:11 UTC 2018,x86_64,linux
