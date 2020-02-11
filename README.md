@@ -1,2 +1,2 @@
 # os-name-classification-dataset
-OS name classification dataset - systeminfo(Windows), uname -a(Linux)
+OS(Operating System) name classification dataset - systeminfo(Windows), uname -a(Linux)
